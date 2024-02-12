@@ -1,0 +1,18 @@
+{
+    "Marina" : {
+        "edad" : 26,
+        "ciudad" : "Valencia"
+    },
+    "Victor" : {
+        "edad" : 29,
+        "ciudad" : "Valencia"
+    },
+    "asignaturas" : [
+        {
+            "PLE" : 200
+        },
+        {
+            "SIMR" : 100
+        }
+    ]
+}
